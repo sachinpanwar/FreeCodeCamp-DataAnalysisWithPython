@@ -1,4 +1,6 @@
-### rmotr.com
-# Data Science with Python Course
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+# Course
+[FreeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)
+
+## Modules
+- Pandas-Real-Life-Example
