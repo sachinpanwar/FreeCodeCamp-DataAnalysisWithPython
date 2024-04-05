@@ -1,0 +1,1 @@
+Thanks to https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy
